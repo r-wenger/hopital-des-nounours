@@ -1,5 +1,5 @@
 # Hopital des Nounours
-Petit script pour écrire dynamiquement le nom des enfants sur leur diplôme. Ce projet a été développé pour l'[Hopital des Nounours](https://www.aaems.org/hopital-des-nounours/) organisé par l'[Association des étudiants en médecine de Strasbourg](https://www.aaems.org/).
+Petit script pour écrire dynamiquement les noms des enfants sur un diplôme. Ce projet a été développé pour l'[Hopital des Nounours](https://www.aaems.org/hopital-des-nounours/) (v2020 annulée cause covid :( ) organisé par l'[Association des étudiants en médecine de Strasbourg](https://www.aaems.org/).
 
 ### Utilisation
 
